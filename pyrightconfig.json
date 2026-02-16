@@ -1,0 +1,14 @@
+{
+    "include": [
+        "scripts"
+    ],
+    "exclude": [
+        "**/__pycache__",
+        "**/node_modules"
+    ],
+    "extraPaths": [
+        "/opt/homebrew/Cellar/apache-spark/4.0.1_1/libexec/python"
+    ],
+    "pythonVersion": "3.12"
+}
+

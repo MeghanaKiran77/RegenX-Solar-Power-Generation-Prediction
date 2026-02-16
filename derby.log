@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 06 15:57:13 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019a-58b4-c681-00000324a608 
+on database directory /Users/meghanakiran/regenx-project/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1dbd16a6 
+Loaded from file:/opt/homebrew/Cellar/apache-spark/4.0.1_1/libexec/jars/derby-10.16.1.1.jar
+java.vendor=Homebrew
+java.runtime.version=17.0.17+0
+user.dir=/Users/meghanakiran/regenx-project
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

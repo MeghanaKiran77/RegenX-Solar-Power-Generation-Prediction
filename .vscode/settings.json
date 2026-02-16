@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3",
+    "python.analysis.extraPaths": [
+        "/opt/homebrew/Cellar/apache-spark/4.0.1_1/libexec/python"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
+

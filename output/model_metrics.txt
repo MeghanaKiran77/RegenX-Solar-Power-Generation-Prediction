@@ -1,0 +1,7 @@
+LinearRegression -> RMSE: 160.0113  R2: 0.7728
+GBTRegressor     -> RMSE: 16.6302  R2: 0.9975
+GBT split 50-50: RMSE: 23.8476, R2: 0.9958
+GBT split 60-40: RMSE: 21.2732, R2: 0.9966
+GBT split 40-60: RMSE: 33.0033, R2: 0.9922
+GBT split 30-70: RMSE: 28.3559, R2: 0.9944
+GBT split 70-30: RMSE: 18.7964, R2: 0.9972
