@@ -14,7 +14,7 @@ This project implements a machine learning pipeline to predict AC power output f
 
 ## 2. Data Sources
 
-The project uses four CSV datasets:
+The project uses four CSV datasets from Kaggle (check "data" folder for more details):
 - **Plant 1 Generation Data**: Inverter-level power generation data (68,780 rows)
 - **Plant 1 Weather Sensor Data**: Weather measurements (3,184 rows)
 - **Plant 2 Generation Data**: Inverter-level power generation data (67,700 rows)
